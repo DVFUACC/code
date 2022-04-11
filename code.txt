@@ -7,7 +7,7 @@ int main(){
 	int ant;
 	cin>>num;
 	cout<<"The number is: "<<num*5<<endl;
-	cout << "Anekdot:"<< endl;
+	cout << "Anekdot:дет Штирлец......"<< endl;
 	cin >> ant;
 	
 
